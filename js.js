@@ -1,5 +1,5 @@
 const a = () => {
-    return (3 + 4)
+    return (4 + 4)
 }
 
 const b = () => {
